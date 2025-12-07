@@ -8,7 +8,7 @@ Users can trigger sounds either by **clicking the buttons** or **pressing assign
 ## 🔗 Live Demo
 
 Check out the live version of this project here:  
-👉 **https://yourusername.github.io/repository-name/**
+👉 **[https://yourusername.github.io/repository-name/](https://goutham-ketham.github.io/Drum-Kit/)**
 
 ---
 
